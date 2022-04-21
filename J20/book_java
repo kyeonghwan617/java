@@ -1,0 +1,138 @@
+{
+"lastBuildDate": "Fri, 04 Mar 2022 14:14:03 +0900",
+"total": 16863,
+"start": 1,
+"display": 10,
+"items": [
+{
+"title": "Power <b>JAVA</b> (3판)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=22106252",
+"image": "https://bookthumb-phinf.pstatic.net/cover/221/062/22106252.jpg?type=m1&udate=20220303",
+"author": "천인국",
+"price": "35000",
+"discount": "35000",
+"publisher": "인피니티북스",
+"pubdate": "20220225",
+"isbn": "1185578986 9791185578989",
+"description": "<b>JAVA</b> 최신 버전 내용 수록!기초부터 고급까지 한 권으로 끝내는 <b>JAVA</b> 프로그래밍<b>JAVA</b>는 객체 지향을 완벽하게 지원하는 언어로 여전히 서버, 안드로이드 개발에 주로 사용되고 있다. 개발자들이 반드시 알아야 하는 필수 언어이지만 입문자가 이해하기에 다소 어려움이 있다. 이 책은 <b>JAVA</b> 입문자들이 쉽고... "
+
+},
+{
+"title": "<b>Java</b>의 정석 기초편",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=16031391",
+"image": "https://bookthumb-phinf.pstatic.net/cover/160/313/16031391.jpg?type=m1&udate=20200108",
+"author": "남궁성",
+"price": "25000",
+"discount": "22500",
+"publisher": "도우출판",
+"pubdate": "20191230",
+"isbn": "8994492046 9788994492049",
+"description": "교육현장에서 뒤쳐지는 학생들을 위해 쓰고, 학생들에게 직접 검증받고 호평받은 책. 코딩을 처음 배우는 사람도 자바를 쉽게 배울수 있게 도와준다."
+
+},
+{
+"title": "<b>Java</b>의 정석 (최신 <b>Java</b> 8.0 포함)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=10191151",
+"image": "https://bookthumb-phinf.pstatic.net/cover/101/911/10191151.jpg?type=m1&udate=20211224",
+"author": "남궁성",
+"price": "30000",
+"discount": "27000",
+"publisher": "도우출판",
+"pubdate": "20160127",
+"isbn": "8994492038 9788994492032",
+"description": "자바의 기초부터 실전활용까지 모두 담다!자바의 기초부터 객제지향개념을 넘어 실전활용까지 수록한『<b>JAVA</b>의 정석』. 저자의 오랜 실무경험과 강의한... 더불어 기존의 경력자들을 위해 자바 최신기능인 람다와 스트림과 그 밖의 자바의 최신버젼 <b>JAVA</b>8의 새로운 기능까지 자세하게 설명하고 있다."
+
+},
+{
+"title": "명품 HTML5+CSS3+Javascript 웹 프로그래밍",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=21488092",
+"image": "https://bookthumb-phinf.pstatic.net/cover/214/880/21488092.jpg?type=m1&udate=20220208",
+"author": "황기태",
+"price": "30000",
+"discount": "30000",
+"publisher": "생능출판",
+"pubdate": "20220210",
+"isbn": "8970505458 9788970505459",
+"description": "1997년, 전기의 광명을 처음 본 사람처럼 저자는 넷스케이프를 사용하면서 정말 즐거웠다. 그때 이미 웹의 전쟁이 시작되고 있었고, 웹의 존재를 일반인에게 전파한 넷스케이프는 윈도우 운영체제에 끼워 배포한 익스플로러에 웹 땅을 내어주고 말았다. 2000년대 초 대한민국은 온통 홈페이지 만들기에... "
+
+},
+{
+"title": "이펙티브 자바 (Effective <b>Java</b>)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=14097515",
+"image": "https://bookthumb-phinf.pstatic.net/cover/140/975/14097515.jpg?type=m1&udate=20181023",
+"author": "조슈아 블로크",
+"price": "36000",
+"discount": "32400",
+"publisher": "인사이트",
+"pubdate": "20181101",
+"isbn": "8966262287 9788966262281",
+"description": "자바 플랫폼 모범 사례 완벽 가이드 - <b>JAVA</b> 7, 8, 9 대응자바 6 출시 직후 출간된 『이펙티브 자바 2판』 이후로 자바는 커다란 변화를 겪었다. 그래서... 포함한 타입 추론\n-\t@SAFEVARARGS 애너테이션\n-\tTRY-WITH-RESOURCES 문\n-\tOPTIONAL T 인터페이스, <b>JAVA</b>.TIME, 컬렉션의 편의 팩터리 메서드 등의 새로운 라이브러리 기능"
+
+},
+{
+"title": "명품 <b>JAVA</b> Programming (귀로 배우는 자바가 아니라, 눈으로 몸으로 배우는 자바강좌)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=13650995",
+"image": "https://bookthumb-phinf.pstatic.net/cover/136/509/13650995.jpg?type=m1&udate=20200408",
+"author": "황기태|김효수",
+"price": "33000",
+"discount": "31350",
+"publisher": "생능출판",
+"pubdate": "20180601",
+"isbn": "897050947X 9788970509471",
+"description": "자바(<b>JAVA</b>)는 그 이전 시대에 있었던 프로그래밍 언어에서 한 차원 진화된 개념으로 개발된 가히 혁명적... <b>JAVA</b> 8, 9에서 인터페이스 정의가 바뀌었기 때문에 5장 인터페이스 부분을 수정하였다.\n3. 6.7절 WRAPPER 클래스 부분을 갱신하였다. <b>JAVA</b> 9부터 생성자를 이용하여 WRAPPER 객체를 생성하는 방법이... "
+
+},
+{
+"title": "이것이 자바다 (신용권의 <b>Java</b> 프로그래밍 정복)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=8589375",
+"image": "https://bookthumb-phinf.pstatic.net/cover/085/893/08589375.jpg?type=m1&udate=20220112",
+"author": "신용권",
+"price": "30000",
+"discount": "27000",
+"publisher": "한빛미디어",
+"pubdate": "20150105",
+"isbn": "8968481474 9788968481475",
+"description": "『이것이 자바다』은 15년 이상 자바 언어를 교육해온 자바 전문강사의 노하우를 아낌 없이 담아낸 자바 입문서이다. 자바 입문자를 배려한 친절한 설명과 배려로 1장에 풀인원 설치 방법을 제공하여 쉽게 학습환경을 구축할 수 있다. 또한 중급 개발자로 나아가기 위한 람다식(14장), JAVAFX(17장), NIO(18... "
+
+},
+{
+"title": "Build Up <b>JAVA</b> (프로그래밍 기초부터 튼튼하게 학습하는)",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=21512284",
+"image": "https://bookthumb-phinf.pstatic.net/cover/215/122/21512284.jpg?type=m1&udate=20220219",
+"author": "임정목|김점구|이태동",
+"price": "38000",
+"discount": "36100",
+"publisher": "북스홀릭퍼블리싱",
+"pubdate": "20220302",
+"isbn": "1162890975 9791162890974",
+"description": "데이터베이스를 검색하는 프로그래밍 등의 다양한 기술을 습득할 수 있도록 구성하였다. 또한 URL을 이용할 수 있는 네트워크 프로그래밍등과 실무에 적용할 수 있도록 고수준의 자바 적용사례의 단위 독립 프로그램을 포함하여 중급 이상의 자바 사용자도 학습할 수 있도록 <b>JAVA</b> 17 버전에 맞게 구성하였다."
+
+},
+{
+"title": "262가지 문제로 정복하는 코딩 인터뷰 in <b>Java</b>",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=20941205",
+"image": "https://bookthumb-phinf.pstatic.net/cover/209/412/20941205.jpg?type=m1&udate=20210918",
+"author": "아드난 아지즈|쭝시엔 리|아미트 프라카시",
+"price": "35000",
+"discount": "31500",
+"publisher": "인사이트",
+"pubdate": "20211001",
+"isbn": "8966263194 9788966263196",
+"description": "스타트업에서 빅테크 기업까지실리콘밸리 면접관이 전하는 코딩 인터뷰 노하우코딩 인터뷰는 어색한 공간, 낯선 면접관 앞에서 이루어진다. 후회 없이 인터뷰를 마치려면 평소에 난이도와 주제별로 다양한 문제를 풀며 철저히 준비해 두어야 한다. 이 책은 면접관으로 수많은 인터뷰를 해 온 저자들이 집필한... "
+
+},
+{
+"title": "윤성우의 열혈 <b>Java</b> 프로그래밍",
+"link": "http://book.naver.com/bookdb/book_detail.php?bid=12236206",
+"image": "https://bookthumb-phinf.pstatic.net/cover/122/362/12236206.jpg?type=m1&udate=20181129",
+"author": "윤성우",
+"price": "30000",
+"discount": "27000",
+"publisher": "오렌지미디어",
+"pubdate": "20170705",
+"isbn": "8996094072 9788996094074",
+"description": "『윤성우의 열혈 <b>JAVA</b> 프로그래밍』은 최신 내용을 바탕으로 새롭게 집필된 자바책이다. 자바 8이 발표되면서 초보자들에게 어려울 수 있는 문법적 요소가 상당수 포함이 되었으나 저자 특유의 쉽고 명확한 설명을 통해서 어렵지 않게 해당 내용들을 설명한 책이다. 본서의 설명에는 독자들을 고려한 과하지... "
+
+}
+]
+}

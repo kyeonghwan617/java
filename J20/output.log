@@ -1,0 +1,12 @@
+2022-03-03 10:13:14,985 DEBUG [main] com.LoggerManager (FileReaderEx01.java:27)     - Log4j
+2022-03-03 10:27:15,965 DEBUG [main] com.LoggerManager (FileWriterEx01.java:37)     - 프로그램 종료!
+2022-03-03 10:30:46,842 DEBUG [main] com.LoggerManager (FileWriterEx01.java:39)     - 프로그램 종료!
+2022-03-03 10:39:34,808 DEBUG [main] com.LoggerManager (FileWriterEx01.java:41)     - 프로그램 종료!
+2022-03-03 10:42:17,594 DEBUG [main] com.LoggerManager (FileWriterEx01.java:51)     - 프로그램 종료!
+2022-03-03 11:18:33,598 DEBUG [main] com.LoggerManager (InputStreamReaderEx01.java:43)     - 프로그램 종료!
+2022-03-03 11:28:00,186 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:31)     - FileNotFoundException======================
+2022-03-03 11:28:00,188 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:32)     - C:\DCOM_20220127\01_JAVA\workspace\J20\src\com\pcwk\ex04\inputstreamreader\InputStreamReaderEx01.java99 (지정된 파일을 찾을 수 없습니다)
+2022-03-03 11:28:00,188 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:33)     - ======================
+2022-03-03 11:28:31,973 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:31)     - FileNotFoundException======================
+2022-03-03 11:28:31,976 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:32)     - C:\DCOM_20220127\01_JAVA\workspace\J20\src\com\pcwk\ex04\inputstreamreader\InputStreamReaderEx01.java99 (지정된 파일을 찾을 수 없습니다)
+2022-03-03 11:28:31,977 DEBUG [main] com.LoggerManager (BufferedReaderEx01.java:33)     - ======================

@@ -1,0 +1,160 @@
+2022-02-18 09:19:55,606 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:19:55,608 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:19:55,608 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:25:37,599 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:25:37,601 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:25:37,601 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:25:37,601 DEBUG [main] string.StringEx01 (StringEx01.java:16)     - index=5
+2022-02-18 09:26:12,667 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:26:12,669 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:26:12,669 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:26:12,669 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index=5
+2022-02-18 09:27:29,500 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:27:29,504 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:27:29,504 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:27:29,504 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index=5
+2022-02-18 09:27:29,504 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:27:38,525 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:27:38,527 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:27:38,527 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:27:38,527 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index=2
+2022-02-18 09:27:38,527 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=6
+2022-02-18 09:30:39,732 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:30:39,734 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:30:39,734 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:30:39,734 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=6
+2022-02-18 09:30:39,734 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :.java
+2022-02-18 09:30:48,928 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:30:48,930 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:30:48,930 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:30:48,930 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:30:48,930 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :.java
+2022-02-18 09:30:59,386 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:30:59,388 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:30:59,388 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:30:59,388 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:30:59,388 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :java
+2022-02-18 09:33:12,894 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:33:12,896 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:33:12,896 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:33:12,896 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:33:12,896 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :java
+2022-02-18 09:33:12,896 DEBUG [main] string.StringEx01 (StringEx01.java:31)     - fileName :Hello
+2022-02-18 09:35:27,610 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :java
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:31)     - fileName :Hello
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - =============================
+2022-02-18 09:35:27,612 DEBUG [main] string.StringEx01 (StringEx01.java:36)     - GoodMorning.java
+2022-02-18 09:36:05,855 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :java
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:31)     - fileName :Hello
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - =============================
+2022-02-18 09:36:05,857 DEBUG [main] string.StringEx01 (StringEx01.java:36)     - Herro.java
+2022-02-18 09:37:24,108 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ======================
+2022-02-18 09:37:24,109 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ======================
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:19)     - index=5
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:25)     - ext :java
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:31)     - fileName :Hello
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - =============================
+2022-02-18 09:37:24,110 DEBUG [main] string.StringEx01 (StringEx01.java:36)     - GoodMorning.java
+2022-02-18 10:24:01,560 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:24:01,561 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 brr:가
+2022-02-18 10:24:01,561 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:24:26,227 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:24:26,228 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 brr:가
+2022-02-18 10:24:26,228 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:24:48,917 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:24:48,919 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 brr:가
+2022-02-18 10:24:48,919 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:24:48,919 DEBUG [main] string.StringEncoding (StringEncoding.java:23)     - CP949: ��
+2022-02-18 10:25:12,117 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:25:12,121 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 brr:가
+2022-02-18 10:25:12,121 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:25:21,649 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:25:21,652 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 brr:가
+2022-02-18 10:25:21,652 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:25:21,652 DEBUG [main] string.StringEncoding (StringEncoding.java:23)     - CP949: 가
+2022-02-18 10:27:33,987 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:27:33,989 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 가
+2022-02-18 10:27:33,989 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:27:33,989 DEBUG [main] string.StringEncoding (StringEncoding.java:23)     - CP949: 가
+2022-02-18 10:27:38,283 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:27:38,285 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 :가
+2022-02-18 10:27:38,285 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:27:38,285 DEBUG [main] string.StringEncoding (StringEncoding.java:23)     - CP949: 가
+2022-02-18 10:27:43,996 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 brr:[-22, -80, -128]
+2022-02-18 10:27:43,997 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 :가
+2022-02-18 10:27:43,997 DEBUG [main] string.StringEncoding (StringEncoding.java:22)     - CP949 bArrMS:[-80, -95]
+2022-02-18 10:27:43,998 DEBUG [main] string.StringEncoding (StringEncoding.java:23)     - CP949 :가
+2022-02-18 10:29:44,500 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:9)     - numStr=100
+2022-02-18 10:29:44,502 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:11)     - 101
+2022-02-18 10:30:41,597 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:9)     - numStr=100
+2022-02-18 10:30:41,599 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:12)     - 1001
+2022-02-18 10:30:41,599 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:13)     - 101
+2022-02-18 10:30:41,600 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 101
+2022-02-18 10:32:22,186 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:9)     - numStr=100
+2022-02-18 10:32:22,187 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:12)     - 1001
+2022-02-18 10:32:22,187 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:13)     - 101
+2022-02-18 10:32:22,187 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 101
+2022-02-18 10:32:22,188 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:18)     - 201.1
+2022-02-18 10:32:50,985 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:9)     - numStr=100
+2022-02-18 10:32:50,987 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:12)     - 1001
+2022-02-18 10:32:50,987 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:13)     - 101
+2022-02-18 10:32:50,987 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 101
+2022-02-18 10:32:50,988 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:19)     - 201.1
+2022-02-18 10:32:50,988 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:20)     - 201.1
+2022-02-18 10:49:21,519 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:17)     - myValue:100
+2022-02-18 11:09:33,357 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:09:43,744 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:09:43,746 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:09:47,763 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:09:47,765 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:11:01,531 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:11:01,532 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:11:41,349 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:11:41,351 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:13:33,538 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:13:33,540 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:16:47,108 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:20)     - myValue:100
+2022-02-18 11:16:47,110 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:24)     - num01 : 100
+2022-02-18 11:24:30,444 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - myValue:100
+2022-02-18 11:24:30,446 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:23)     - num01 : 100
+2022-02-18 11:32:50,316 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =================
+2022-02-18 11:41:52,320 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:41:52,321 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 200
+2022-02-18 11:42:09,644 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:42:09,646 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:43:09,658 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:43:09,660 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:43:32,830 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:43:32,832 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:43:32,832 DEBUG [main] string.LoggerManager (StringBilderMain.java:17)     - 34
+2022-02-18 11:43:48,645 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:43:48,646 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:43:48,646 DEBUG [main] string.LoggerManager (StringBilderMain.java:17)     - 34
+2022-02-18 11:43:48,647 DEBUG [main] string.LoggerManager (StringBilderMain.java:19)     - 01_java02_oracle03_html
+2022-02-18 11:44:53,176 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:44:53,178 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:44:53,178 DEBUG [main] string.LoggerManager (StringBilderMain.java:17)     - 70
+2022-02-18 11:44:53,178 DEBUG [main] string.LoggerManager (StringBilderMain.java:19)     - 01_java   /n02_oracle /n03_html   /n
+2022-02-18 11:45:04,323 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:45:04,326 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:45:04,326 DEBUG [main] string.LoggerManager (StringBilderMain.java:17)     - 34
+2022-02-18 11:45:04,326 DEBUG [main] string.LoggerManager (StringBilderMain.java:19)     - 01_java   
+02_oracle 
+03_html   
+
+2022-02-18 11:46:02,904 DEBUG [main] string.LoggerManager (StringBilderMain.java:6)     - =====================
+2022-02-18 11:46:02,905 DEBUG [main] string.LoggerManager (StringBilderMain.java:13)     - 16
+2022-02-18 11:46:02,905 DEBUG [main] string.LoggerManager (StringBilderMain.java:17)     - 70
+2022-02-18 11:46:02,905 DEBUG [main] string.LoggerManager (StringBilderMain.java:19)     - 01_java    
+02_oracle  
+03_html    
+

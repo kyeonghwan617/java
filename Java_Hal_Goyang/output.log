@@ -1,0 +1,4 @@
+2022-03-11 11:23:06,791 DEBUG [main] cmn.LoggerManager ( KingDao.java:92)     - =================================
+2022-03-11 11:23:06,794 DEBUG [main] cmn.LoggerManager ( KingDao.java:93)     - =IOException: \Users\baghun\Desktop\DCOM_20220127\01_JAVA\workspace\Java_Hal_Goyang\src\com\pcwk\data\kings.csv (지정된 경로를 찾을 수 없습니다)=
+2022-03-11 11:23:06,794 DEBUG [main] cmn.LoggerManager ( KingDao.java:94)     - =================================
+2022-03-11 11:23:06,794 DEBUG [main] cmn.LoggerManager ( KingDao.java:27)     - 파일 읽기 실패

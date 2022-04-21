@@ -1,0 +1,3 @@
+2022-02-17 15:13:24,910 DEBUG [main] log4j.Log4jMain   (Log4jMain.java:10)     - =======================
+2022-02-17 15:13:24,912 DEBUG [main] log4j.Log4jMain   (Log4jMain.java:11)     - =log4j=
+2022-02-17 15:13:24,912 DEBUG [main] log4j.Log4jMain   (Log4jMain.java:12)     - =======================
